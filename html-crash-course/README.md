@@ -14,7 +14,7 @@ Does not have logic or branching
 Note: Can replace <strong> with <b> and <em> with <i> but they do not carry any semantic meaning. Stick to <strong> and <em>
 
 <small>
-<delete> - Strikethrough
+<del> - Strikethrough
 <ins>    - Underline
 <sub>    - Subscript
 <sup>    - Superscript
@@ -48,4 +48,4 @@ Additional information about HTML elements
 <label>
 <input>
 <textarea>
-Note: for, id
+Note: for, id in Forms!

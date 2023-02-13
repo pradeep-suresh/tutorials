@@ -1,0 +1,63 @@
+h1 {
+    color: blue;
+}
+
+.box-model {
+    margin: 20px;
+    border: 1px solid red ;
+    height: 50px;
+    width : 300px;
+    padding: 20px;
+}
+
+h2 {
+    color: blue;
+}
+
+h2 {
+    color: red
+}
+
+
+
+.sub-heading {
+    color: blue
+}
+
+h3 {
+    color: green
+}
+
+th, td {
+    border-bottom: 1px solid gray;
+    padding: 15px;
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%
+}
+
+.content-1 {
+    border: 1px solid red;
+    display: inline
+}
+
+.content-2 {
+    border: 1px solid blue;
+}
+
+.position-content-1 {
+    border: 2px solid green;
+    position: relative;
+    left: 50px;
+}
+
+.position-content-2 {
+    border:2px solid orange;
+    position: relative
+}
